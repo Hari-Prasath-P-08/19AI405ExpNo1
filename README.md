@@ -231,8 +231,7 @@ class TrivialDoctorEnvironment(Environment):
         time.sleep(3)
 
 <h3>OUTPUT</h3>
-<img src = "![Screenshot 2024-09-26 084909](https://github.com/user-attachments/assets/df943553-0f10-4949-95a2-d6881df8c798)
-">
+<img src = ""C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-26 084909.png"">
 
 <h3>RESULT</h3>
 Thus, an AI agent is developed.
