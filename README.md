@@ -230,8 +230,8 @@ class TrivialDoctorEnvironment(Environment):
         print("Performance : {0}".format(agent.performance)) 
         time.sleep(3)
 
-<h3>OUTPUT</h3>
-<img src = ""C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-26 084909.png"">
+## OUTPUT
+![ai1](https://github.com/Rama-Lekshmi/19AI405ExpNo1/assets/118541549/c6a4e9b8-4db6-4741-9103-ade21001ebfa)
 
 <h3>RESULT</h3>
 Thus, an AI agent is developed.
